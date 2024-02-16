@@ -6,6 +6,7 @@
   <a href="mailto:kusuri94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kusuri94@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+
 <p>
   👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
   I have experience 1 years of Android development.<br/>
