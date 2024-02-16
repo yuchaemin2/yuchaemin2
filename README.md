@@ -1,5 +1,15 @@
-### Hi there 👋
 
+
+👋 Hi there! I'm mobile app, back-end developer using Android and Spring. 🚀
+
+I enjoy knitting, swinning, travel and reading. 🏝️📖
+</br>
+I hope to develop every beautiful things. ✨
+
+### Skills
+#### Platforms & Languages
+
+#### Tools
 <!--
 **yuchaemin2/yuchaemin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
