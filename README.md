@@ -11,8 +11,8 @@
   I have experience 1 years of Android development.<br/>
   At present, I have been interested in creating Maching Learning with NLP. <br/>
   <br/>
-  I enjoy knitting, swinning, travel and reading. 🏝️ 📖<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+<!--   I enjoy knitting, swinning, travel and reading. 🏝️ 📖<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/> -->
 </p>
 
 
