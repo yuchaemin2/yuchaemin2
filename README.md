@@ -33,3 +33,5 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
+
+![Chaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchaemin2&show_icons=true&theme=dracula)
