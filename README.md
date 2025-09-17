@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in API, WEB, and APP. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in AI, WEB, and APP. 🚀<br/>
   I have experience 4 years of Web, Android development.<br/>
   At present, I have been interested in creating Maching Learning with NLP. <br/>
   <br/>
