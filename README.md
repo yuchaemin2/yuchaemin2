@@ -7,12 +7,16 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in AI, WEB, and APP. 🚀<br/>
-  I have experience 4 years of Web, Android development.<br/>
-  At present, I have been interested in creating Maching Learning with NLP. <br/>
+  👋&nbsp; Hi, I'm a Back-end Developer with a strong focus on AI and cloud-based systems.
+I have hands-on experience building scalable web services using Spring Boot and Java,
+and developing AI-driven applications with NLP, computer vision, and RAG pipelines.<br/>
+  I work mainly with Spring Boot and JAVA, and love connecting ML models
+to real-world services.<br/><br/>
+  🚀 Interests: AI-powered backend systems, Machine Learning (NLP), Cloud Infrastructure
+ <br/>
+  🛠 Tech: Java, Python, Spring Boot, FastAPI, AWS, Docker, YOLO, FAISS
+ <br/>
   <br/>
-<!--   I enjoy knitting, swinning, travel and reading. 🏝️ 📖<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/> -->
 </p>
 
 
