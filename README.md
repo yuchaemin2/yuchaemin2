@@ -9,9 +9,8 @@
 <p>
   👋&nbsp; Hi, I'm a Back-end Developer with a strong focus on AI and cloud-based systems.
 I have hands-on experience building scalable web services using Spring Boot and Java,
-and developing AI-driven applications with NLP, computer vision, and RAG pipelines.<br/>
-  I work mainly with Spring Boot and JAVA, and love connecting ML models
-to real-world services.<br/><br/>
+and developing AI-driven applications with NLP, computer vision, and RAG pipelines.<br/><br/>
+ 
   🚀 Interests: AI-powered backend systems, Machine Learning (NLP), Cloud Infrastructure
  <br/>
   🛠 Tech: Java, Python, Spring Boot, FastAPI, AWS, Docker, YOLO, FAISS
