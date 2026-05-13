@@ -13,6 +13,6 @@
  <!-- <a href="https://www.linkedin.com/in/yuchaemin/" target="_blank"><img src="https://img.shields.io/badge/ChaeminYu-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
 </p>
 
-![Chaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchaemin2&show_icons=true&theme=dracula)
+![Chaemin's GitHub stats](https://github-stats-extended.vercel.app/api?username=yuchaemin2&show_icons=true&theme=dracula)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchaemin2&layout=compact&theme=dracula) -->
